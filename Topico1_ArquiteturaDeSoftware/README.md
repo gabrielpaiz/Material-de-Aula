@@ -1,5 +1,5 @@
 # Aula 1: Introdução a Arquitetura de Software
-Acompanhe os slides sobre Arquitetura
-Analise os exemplos
-Acompanhe os slides sobre Padrões de Projeto
-Faça o exercício
+
+Este tópico discute arquitetura em 3 camadas e padrões de projeto:
+* Veja os slides (.ppt) e leia a bibliografia recomendada
+* Faça os exercícios a medida que demandados pelo professor
