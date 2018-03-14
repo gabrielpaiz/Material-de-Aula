@@ -1,0 +1,9 @@
+Neste refactoring o objetivo é aplicar o padrão singleton.
+
+Inicialmente aplica-se o padrão singleton na classe "Persistencia".
+Depois criam-se as classes "Contas" e "Operacoes" que irão
+encapsular o dicionário de contas e a lista de operações.
+
+Isso irá permitir tanto aplicar o padrão singleton como
+operações de mais alto nível como manter a "conta em uso" como a
+lista de operações da "conta em uso".
