@@ -1,0 +1,13 @@
+Neste refactoring o objetivo é aplicar o padrão Facade.
+
+Será criada a classe LogicaOperacoes com as operações
+demandadas pela camada de interface com o usuário:
+- Definir conta em uso
+- Operaçao de crédito
+- Operacao de débito
+- Solicita extrato
+- Solicita saldo
+
+Isso irá permitir que a dependencia da camada de 
+apresentacao para a de lógica se restrinja a apenas
+uma classe.
