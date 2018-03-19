@@ -1,0 +1,8 @@
+Neste refactoring o objetivo é aplicar o padrão Observer.
+
+Foi feito a partir do Refactoring02 e acrescenta
+funcionalidades:
+
+- Tela que apresenta o total de operacoes de credito e o
+total de operações de debito de uma conta, seu saldo atual 
+e se é a conta que tem o maior saldo no banco.
