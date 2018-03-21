@@ -1,0 +1,5 @@
+Neste refactoring o objetivo é aplicar o padrão State Pattern.
+
+Cria a interface StateConta
+Altera a classe conta para explorar o padrão StatePattern. 
+Explora classes aninhadas.
